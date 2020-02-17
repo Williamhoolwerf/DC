@@ -1,0 +1,32 @@
+
+.header {
+    font-size: 28px;
+    text-align: center;
+    color: crimson;
+}
+
+.search-label {
+    position: relative;
+    width: 100%;
+    
+}
+
+.container input {
+    width: 100%;
+    padding: 24px;
+    font-size: 30px;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.container{
+    margin: 70px auto;
+    width: 100%;
+    max-width: 800px;
+}
+
+.search-icon{
+    color: #F82F2F;
+
+}
+
